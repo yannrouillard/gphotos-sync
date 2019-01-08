@@ -1,3 +1,13 @@
+
+**WARNING: I don't maintain this project anymore so I don't recommend you use it.**
+
+You can use instead https://github.com/gilesknap/gphotos-sync which is a fork from
+this project with considerable changes to address a lot of its shortcomings.
+
+*(Also monitor closely https://github.com/gilesknap/gphotos-sync2 which will use the
+recent official Google Photo API and should be a more sustainable solution).*
+
+
 ====================
  Google Photos Sync
 ====================
