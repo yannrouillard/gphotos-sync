@@ -1,4 +1,8 @@
 
+.. image:: http://unmaintained.tech/badge.svg
+   :target: http://unmaintained.tech/
+   :alt: No Maintenance Intended
+
 **WARNING: I don't maintain this project anymore so I don't recommend you use it.**
 
 You can use instead https://github.com/gilesknap/gphotos-sync which is a fork from
